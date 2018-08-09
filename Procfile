@@ -1,0 +1,1 @@
+web: java -jar webapp-runner.jar target/artefacto-1.0-SNAPSHOT.jar
